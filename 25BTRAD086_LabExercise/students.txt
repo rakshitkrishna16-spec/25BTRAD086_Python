@@ -1,0 +1,2 @@
+101, Rahul, Computer Science
+102, Ananya, Data Science
